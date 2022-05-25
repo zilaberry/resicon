@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="keywords" content="网易公开课,公开课,网课,在线教育,教育,慕课,TED,纪录片">
+  <meta name="description" content="网易公开课汇集清华、北大、哈佛、耶鲁等世界名校共上千门课程，覆盖科学、经济、人文、哲学等22个领域，在这里你可以开拓视野看世界，获取有深度的好知识。">
+  <title>网易公开课-上好人生每一课</title>
+  <meta name="baidu-site-verification" content="code-MlLKchgdQM" />
+  <meta name="sogou_site_verification" content="FASeFDtP56" />
+  <meta name="shenma-site-verification" content="7221e2ede63e61d5312711d5d5a850ea_1611197959" />
+  <meta name="360-site-verification" content="db3f6674e79aaaa30882daa7037825e0" />
+  <meta name="google-site-verification" content="EJEm6z3xSJUE1w4mw_tGwBUIj0bVL8QFge5J9yv3-ZI" />
+  <link rel="shortcut icon" href="//c.open.163.com/favicon.ico" type="image/x-icon">
+  <style>
+    *{
+      margin:0;
+      padding: 0;
+    }
+    body{
+      background: #ffffff;
+    }
+    .box{
+      text-align: center;
+      width: 100%;
+      position: absolute;
+      top: 50%;
+      margin-top: -250px;
+    }
+    p{
+      font-size: 36px;
+      font-family: "MicrosoftYaHei","Arial","Hiragino Sans GB", \5b8b\4f53, "Georgia", "serif";
+      color: rgb(91, 91, 91);
+      line-height: 1.667;
+      text-align: center;
+    }
+    p span{
+      color: #43b478;
+    }
+    img{ width: 584px;}
+  </style>
+</head>
+<body>
+  <div class="box">
+    <img src="http://cms-bucket.ws.126.net/2019/09/24/040499ff1596433da020edfa0d89dc0c.jpeg">
+    <p>亲，您的浏览器暂不支持课程播放！</p>
+    <p>推荐您使用<span>Chrome、Firefox、360</span>浏览器</p>
+  </div>
+</body>
+</html>
